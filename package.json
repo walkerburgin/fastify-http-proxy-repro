@@ -1,0 +1,10 @@
+{
+  "name": "monorepo",
+  "private": true,
+  "scripts": {
+    "build": "pnpm run -r build",
+    "clean": "pnpm run -r clean"
+  },
+  "author": "Walker Burgin <walkerburgin@gmail.com>",
+  "license": "ISC"
+}
